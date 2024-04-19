@@ -51,8 +51,8 @@ def process_files(input_folder, output_folder):
             new_doc.save(output_path)
 
 # Specify input and output folders
-input_folder = 'ProcessedSandE'  # Relative path from the current working directory
-output_folder = 'StemmationProcessedSandE'  # Relative path from the current working directory
+input_folder = 'ProcessedFood'  # Relative path from the current working directory
+output_folder = 'StemmationProcessedFood'  # Relative path from the current working directory
 
 # Get the absolute paths
 current_directory = os.path.dirname(os.path.abspath(__file__))
