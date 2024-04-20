@@ -1,0 +1,631 @@
+Content,Type,Feature
+Graph 1 (Health and Fitness),Graph 2 (Health and Fitness),-2
+Graph 1 (Health and Fitness),Graph 3 (Health and Fitness),0
+Graph 1 (Health and Fitness),Graph 4 (Health and Fitness),0
+Graph 1 (Health and Fitness),Graph 5 (Health and Fitness),-3
+Graph 1 (Health and Fitness),Graph 6 (Health and Fitness),-1
+Graph 1 (Health and Fitness),Graph 7 (Health and Fitness),-4
+Graph 1 (Health and Fitness),Graph 8 (Health and Fitness),-2
+Graph 1 (Health and Fitness),Graph 9 (Health and Fitness),-1
+Graph 1 (Health and Fitness),Graph 10 (Health and Fitness),0
+Graph 1 (Health and Fitness),Graph 11 (Health and Fitness),-3
+Graph 1 (Health and Fitness),Graph 12 (Health and Fitness),-1
+Graph 1 (Health and Fitness),Graph 13 (Food),-2
+Graph 1 (Health and Fitness),Graph 14 (Food),-3
+Graph 1 (Health and Fitness),Graph 15 (Food),-1
+Graph 1 (Health and Fitness),Graph 16 (Food),-2
+Graph 1 (Health and Fitness),Graph 17 (Food),-2
+Graph 1 (Health and Fitness),Graph 18 (Food),-1
+Graph 1 (Health and Fitness),Graph 19 (Food),-1
+Graph 1 (Health and Fitness),Graph 20 (Food),-2
+Graph 1 (Health and Fitness),Graph 21 (Food),0
+Graph 1 (Health and Fitness),Graph 22 (Food),-3
+Graph 1 (Health and Fitness),Graph 23 (Food),-2
+Graph 1 (Health and Fitness),Graph 24 (Food),-1
+Graph 1 (Health and Fitness),Graph 25 (Science and Education),0
+Graph 1 (Health and Fitness),Graph 26 (Science and Education),0
+Graph 1 (Health and Fitness),Graph 27 (Science and Education),-2
+Graph 1 (Health and Fitness),Graph 28 (Science and Education),-1
+Graph 1 (Health and Fitness),Graph 29 (Science and Education),-1
+Graph 1 (Health and Fitness),Graph 30 (Science and Education),0
+Graph 1 (Health and Fitness),Graph 31 (Science and Education),-3
+Graph 1 (Health and Fitness),Graph 32 (Science and Education),0
+Graph 1 (Health and Fitness),Graph 33 (Science and Education),0
+Graph 1 (Health and Fitness),Graph 34 (Science and Education),0
+Graph 1 (Health and Fitness),Graph 35 (Science and Education),0
+Graph 1 (Health and Fitness),Graph 36 (Science and Education),-1
+Graph 2 (Health and Fitness),Graph 3 (Health and Fitness),-2
+Graph 2 (Health and Fitness),Graph 4 (Health and Fitness),-1
+Graph 2 (Health and Fitness),Graph 5 (Health and Fitness),-4
+Graph 2 (Health and Fitness),Graph 6 (Health and Fitness),-1
+Graph 2 (Health and Fitness),Graph 7 (Health and Fitness),-3
+Graph 2 (Health and Fitness),Graph 8 (Health and Fitness),-3
+Graph 2 (Health and Fitness),Graph 9 (Health and Fitness),-2
+Graph 2 (Health and Fitness),Graph 10 (Health and Fitness),-1
+Graph 2 (Health and Fitness),Graph 11 (Health and Fitness),-3
+Graph 2 (Health and Fitness),Graph 12 (Health and Fitness),-4
+Graph 2 (Health and Fitness),Graph 13 (Food),-1
+Graph 2 (Health and Fitness),Graph 14 (Food),-2
+Graph 2 (Health and Fitness),Graph 15 (Food),0
+Graph 2 (Health and Fitness),Graph 16 (Food),-1
+Graph 2 (Health and Fitness),Graph 17 (Food),-1
+Graph 2 (Health and Fitness),Graph 18 (Food),0
+Graph 2 (Health and Fitness),Graph 19 (Food),-1
+Graph 2 (Health and Fitness),Graph 20 (Food),-2
+Graph 2 (Health and Fitness),Graph 21 (Food),-1
+Graph 2 (Health and Fitness),Graph 22 (Food),-2
+Graph 2 (Health and Fitness),Graph 23 (Food),-2
+Graph 2 (Health and Fitness),Graph 24 (Food),-3
+Graph 2 (Health and Fitness),Graph 25 (Science and Education),-1
+Graph 2 (Health and Fitness),Graph 26 (Science and Education),0
+Graph 2 (Health and Fitness),Graph 27 (Science and Education),0
+Graph 2 (Health and Fitness),Graph 28 (Science and Education),0
+Graph 2 (Health and Fitness),Graph 29 (Science and Education),0
+Graph 2 (Health and Fitness),Graph 30 (Science and Education),-1
+Graph 2 (Health and Fitness),Graph 31 (Science and Education),0
+Graph 2 (Health and Fitness),Graph 32 (Science and Education),0
+Graph 2 (Health and Fitness),Graph 33 (Science and Education),-1
+Graph 2 (Health and Fitness),Graph 34 (Science and Education),-1
+Graph 2 (Health and Fitness),Graph 35 (Science and Education),-1
+Graph 2 (Health and Fitness),Graph 36 (Science and Education),0
+Graph 3 (Health and Fitness),Graph 4 (Health and Fitness),-1
+Graph 3 (Health and Fitness),Graph 5 (Health and Fitness),-1
+Graph 3 (Health and Fitness),Graph 6 (Health and Fitness),-1
+Graph 3 (Health and Fitness),Graph 7 (Health and Fitness),-1
+Graph 3 (Health and Fitness),Graph 8 (Health and Fitness),0
+Graph 3 (Health and Fitness),Graph 9 (Health and Fitness),-1
+Graph 3 (Health and Fitness),Graph 10 (Health and Fitness),0
+Graph 3 (Health and Fitness),Graph 11 (Health and Fitness),0
+Graph 3 (Health and Fitness),Graph 12 (Health and Fitness),0
+Graph 3 (Health and Fitness),Graph 13 (Food),-1
+Graph 3 (Health and Fitness),Graph 14 (Food),-1
+Graph 3 (Health and Fitness),Graph 15 (Food),0
+Graph 3 (Health and Fitness),Graph 16 (Food),-2
+Graph 3 (Health and Fitness),Graph 17 (Food),0
+Graph 3 (Health and Fitness),Graph 18 (Food),0
+Graph 3 (Health and Fitness),Graph 19 (Food),-1
+Graph 3 (Health and Fitness),Graph 20 (Food),0
+Graph 3 (Health and Fitness),Graph 21 (Food),0
+Graph 3 (Health and Fitness),Graph 22 (Food),0
+Graph 3 (Health and Fitness),Graph 23 (Food),0
+Graph 3 (Health and Fitness),Graph 24 (Food),-1
+Graph 3 (Health and Fitness),Graph 25 (Science and Education),-1
+Graph 3 (Health and Fitness),Graph 26 (Science and Education),0
+Graph 3 (Health and Fitness),Graph 27 (Science and Education),0
+Graph 3 (Health and Fitness),Graph 28 (Science and Education),0
+Graph 3 (Health and Fitness),Graph 29 (Science and Education),-1
+Graph 3 (Health and Fitness),Graph 30 (Science and Education),0
+Graph 3 (Health and Fitness),Graph 31 (Science and Education),-1
+Graph 3 (Health and Fitness),Graph 32 (Science and Education),0
+Graph 3 (Health and Fitness),Graph 33 (Science and Education),0
+Graph 3 (Health and Fitness),Graph 34 (Science and Education),0
+Graph 3 (Health and Fitness),Graph 35 (Science and Education),0
+Graph 3 (Health and Fitness),Graph 36 (Science and Education),0
+Graph 4 (Health and Fitness),Graph 5 (Health and Fitness),0
+Graph 4 (Health and Fitness),Graph 6 (Health and Fitness),0
+Graph 4 (Health and Fitness),Graph 7 (Health and Fitness),0
+Graph 4 (Health and Fitness),Graph 8 (Health and Fitness),0
+Graph 4 (Health and Fitness),Graph 9 (Health and Fitness),-2
+Graph 4 (Health and Fitness),Graph 10 (Health and Fitness),0
+Graph 4 (Health and Fitness),Graph 11 (Health and Fitness),0
+Graph 4 (Health and Fitness),Graph 12 (Health and Fitness),-1
+Graph 4 (Health and Fitness),Graph 13 (Food),0
+Graph 4 (Health and Fitness),Graph 14 (Food),-2
+Graph 4 (Health and Fitness),Graph 15 (Food),0
+Graph 4 (Health and Fitness),Graph 16 (Food),0
+Graph 4 (Health and Fitness),Graph 17 (Food),0
+Graph 4 (Health and Fitness),Graph 18 (Food),0
+Graph 4 (Health and Fitness),Graph 19 (Food),0
+Graph 4 (Health and Fitness),Graph 20 (Food),0
+Graph 4 (Health and Fitness),Graph 21 (Food),0
+Graph 4 (Health and Fitness),Graph 22 (Food),0
+Graph 4 (Health and Fitness),Graph 23 (Food),0
+Graph 4 (Health and Fitness),Graph 24 (Food),-1
+Graph 4 (Health and Fitness),Graph 25 (Science and Education),0
+Graph 4 (Health and Fitness),Graph 26 (Science and Education),-2
+Graph 4 (Health and Fitness),Graph 27 (Science and Education),0
+Graph 4 (Health and Fitness),Graph 28 (Science and Education),0
+Graph 4 (Health and Fitness),Graph 29 (Science and Education),0
+Graph 4 (Health and Fitness),Graph 30 (Science and Education),-2
+Graph 4 (Health and Fitness),Graph 31 (Science and Education),0
+Graph 4 (Health and Fitness),Graph 32 (Science and Education),-1
+Graph 4 (Health and Fitness),Graph 33 (Science and Education),0
+Graph 4 (Health and Fitness),Graph 34 (Science and Education),-2
+Graph 4 (Health and Fitness),Graph 35 (Science and Education),0
+Graph 4 (Health and Fitness),Graph 36 (Science and Education),0
+Graph 5 (Health and Fitness),Graph 6 (Health and Fitness),-3
+Graph 5 (Health and Fitness),Graph 7 (Health and Fitness),-1
+Graph 5 (Health and Fitness),Graph 8 (Health and Fitness),-1
+Graph 5 (Health and Fitness),Graph 9 (Health and Fitness),-8
+Graph 5 (Health and Fitness),Graph 10 (Health and Fitness),-1
+Graph 5 (Health and Fitness),Graph 11 (Health and Fitness),-4
+Graph 5 (Health and Fitness),Graph 12 (Health and Fitness),-2
+Graph 5 (Health and Fitness),Graph 13 (Food),-1
+Graph 5 (Health and Fitness),Graph 14 (Food),-1
+Graph 5 (Health and Fitness),Graph 15 (Food),-1
+Graph 5 (Health and Fitness),Graph 16 (Food),-3
+Graph 5 (Health and Fitness),Graph 17 (Food),0
+Graph 5 (Health and Fitness),Graph 18 (Food),-3
+Graph 5 (Health and Fitness),Graph 19 (Food),-2
+Graph 5 (Health and Fitness),Graph 20 (Food),0
+Graph 5 (Health and Fitness),Graph 21 (Food),-1
+Graph 5 (Health and Fitness),Graph 22 (Food),0
+Graph 5 (Health and Fitness),Graph 23 (Food),0
+Graph 5 (Health and Fitness),Graph 24 (Food),-1
+Graph 5 (Health and Fitness),Graph 25 (Science and Education),0
+Graph 5 (Health and Fitness),Graph 26 (Science and Education),0
+Graph 5 (Health and Fitness),Graph 27 (Science and Education),0
+Graph 5 (Health and Fitness),Graph 28 (Science and Education),0
+Graph 5 (Health and Fitness),Graph 29 (Science and Education),-1
+Graph 5 (Health and Fitness),Graph 30 (Science and Education),0
+Graph 5 (Health and Fitness),Graph 31 (Science and Education),0
+Graph 5 (Health and Fitness),Graph 32 (Science and Education),0
+Graph 5 (Health and Fitness),Graph 33 (Science and Education),0
+Graph 5 (Health and Fitness),Graph 34 (Science and Education),0
+Graph 5 (Health and Fitness),Graph 35 (Science and Education),0
+Graph 5 (Health and Fitness),Graph 36 (Science and Education),-1
+Graph 6 (Health and Fitness),Graph 7 (Health and Fitness),-3
+Graph 6 (Health and Fitness),Graph 8 (Health and Fitness),0
+Graph 6 (Health and Fitness),Graph 9 (Health and Fitness),0
+Graph 6 (Health and Fitness),Graph 10 (Health and Fitness),-2
+Graph 6 (Health and Fitness),Graph 11 (Health and Fitness),0
+Graph 6 (Health and Fitness),Graph 12 (Health and Fitness),0
+Graph 6 (Health and Fitness),Graph 13 (Food),-1
+Graph 6 (Health and Fitness),Graph 14 (Food),0
+Graph 6 (Health and Fitness),Graph 15 (Food),0
+Graph 6 (Health and Fitness),Graph 16 (Food),-1
+Graph 6 (Health and Fitness),Graph 17 (Food),0
+Graph 6 (Health and Fitness),Graph 18 (Food),-2
+Graph 6 (Health and Fitness),Graph 19 (Food),0
+Graph 6 (Health and Fitness),Graph 20 (Food),0
+Graph 6 (Health and Fitness),Graph 21 (Food),0
+Graph 6 (Health and Fitness),Graph 22 (Food),0
+Graph 6 (Health and Fitness),Graph 23 (Food),0
+Graph 6 (Health and Fitness),Graph 24 (Food),0
+Graph 6 (Health and Fitness),Graph 25 (Science and Education),0
+Graph 6 (Health and Fitness),Graph 26 (Science and Education),0
+Graph 6 (Health and Fitness),Graph 27 (Science and Education),0
+Graph 6 (Health and Fitness),Graph 28 (Science and Education),0
+Graph 6 (Health and Fitness),Graph 29 (Science and Education),0
+Graph 6 (Health and Fitness),Graph 30 (Science and Education),0
+Graph 6 (Health and Fitness),Graph 31 (Science and Education),0
+Graph 6 (Health and Fitness),Graph 32 (Science and Education),0
+Graph 6 (Health and Fitness),Graph 33 (Science and Education),0
+Graph 6 (Health and Fitness),Graph 34 (Science and Education),0
+Graph 6 (Health and Fitness),Graph 35 (Science and Education),0
+Graph 6 (Health and Fitness),Graph 36 (Science and Education),0
+Graph 7 (Health and Fitness),Graph 8 (Health and Fitness),-1
+Graph 7 (Health and Fitness),Graph 9 (Health and Fitness),0
+Graph 7 (Health and Fitness),Graph 10 (Health and Fitness),-1
+Graph 7 (Health and Fitness),Graph 11 (Health and Fitness),-1
+Graph 7 (Health and Fitness),Graph 12 (Health and Fitness),-1
+Graph 7 (Health and Fitness),Graph 13 (Food),-1
+Graph 7 (Health and Fitness),Graph 14 (Food),-1
+Graph 7 (Health and Fitness),Graph 15 (Food),0
+Graph 7 (Health and Fitness),Graph 16 (Food),-3
+Graph 7 (Health and Fitness),Graph 17 (Food),0
+Graph 7 (Health and Fitness),Graph 18 (Food),0
+Graph 7 (Health and Fitness),Graph 19 (Food),-1
+Graph 7 (Health and Fitness),Graph 20 (Food),-2
+Graph 7 (Health and Fitness),Graph 21 (Food),0
+Graph 7 (Health and Fitness),Graph 22 (Food),-3
+Graph 7 (Health and Fitness),Graph 23 (Food),-2
+Graph 7 (Health and Fitness),Graph 24 (Food),-1
+Graph 7 (Health and Fitness),Graph 25 (Science and Education),0
+Graph 7 (Health and Fitness),Graph 26 (Science and Education),0
+Graph 7 (Health and Fitness),Graph 27 (Science and Education),0
+Graph 7 (Health and Fitness),Graph 28 (Science and Education),0
+Graph 7 (Health and Fitness),Graph 29 (Science and Education),0
+Graph 7 (Health and Fitness),Graph 30 (Science and Education),0
+Graph 7 (Health and Fitness),Graph 31 (Science and Education),0
+Graph 7 (Health and Fitness),Graph 32 (Science and Education),0
+Graph 7 (Health and Fitness),Graph 33 (Science and Education),-1
+Graph 7 (Health and Fitness),Graph 34 (Science and Education),-1
+Graph 7 (Health and Fitness),Graph 35 (Science and Education),0
+Graph 7 (Health and Fitness),Graph 36 (Science and Education),0
+Graph 8 (Health and Fitness),Graph 9 (Health and Fitness),0
+Graph 8 (Health and Fitness),Graph 10 (Health and Fitness),-34
+Graph 8 (Health and Fitness),Graph 11 (Health and Fitness),-33
+Graph 8 (Health and Fitness),Graph 12 (Health and Fitness),-3
+Graph 8 (Health and Fitness),Graph 13 (Food),-1
+Graph 8 (Health and Fitness),Graph 14 (Food),-3
+Graph 8 (Health and Fitness),Graph 15 (Food),0
+Graph 8 (Health and Fitness),Graph 16 (Food),0
+Graph 8 (Health and Fitness),Graph 17 (Food),0
+Graph 8 (Health and Fitness),Graph 18 (Food),-1
+Graph 8 (Health and Fitness),Graph 19 (Food),0
+Graph 8 (Health and Fitness),Graph 20 (Food),-3
+Graph 8 (Health and Fitness),Graph 21 (Food),0
+Graph 8 (Health and Fitness),Graph 22 (Food),-2
+Graph 8 (Health and Fitness),Graph 23 (Food),-2
+Graph 8 (Health and Fitness),Graph 24 (Food),-1
+Graph 8 (Health and Fitness),Graph 25 (Science and Education),0
+Graph 8 (Health and Fitness),Graph 26 (Science and Education),0
+Graph 8 (Health and Fitness),Graph 27 (Science and Education),0
+Graph 8 (Health and Fitness),Graph 28 (Science and Education),0
+Graph 8 (Health and Fitness),Graph 29 (Science and Education),0
+Graph 8 (Health and Fitness),Graph 30 (Science and Education),0
+Graph 8 (Health and Fitness),Graph 31 (Science and Education),0
+Graph 8 (Health and Fitness),Graph 32 (Science and Education),0
+Graph 8 (Health and Fitness),Graph 33 (Science and Education),-1
+Graph 8 (Health and Fitness),Graph 34 (Science and Education),0
+Graph 8 (Health and Fitness),Graph 35 (Science and Education),0
+Graph 8 (Health and Fitness),Graph 36 (Science and Education),0
+Graph 9 (Health and Fitness),Graph 10 (Health and Fitness),0
+Graph 9 (Health and Fitness),Graph 11 (Health and Fitness),-2
+Graph 9 (Health and Fitness),Graph 12 (Health and Fitness),-4
+Graph 9 (Health and Fitness),Graph 13 (Food),-2
+Graph 9 (Health and Fitness),Graph 14 (Food),-3
+Graph 9 (Health and Fitness),Graph 15 (Food),-1
+Graph 9 (Health and Fitness),Graph 16 (Food),-2
+Graph 9 (Health and Fitness),Graph 17 (Food),-1
+Graph 9 (Health and Fitness),Graph 18 (Food),0
+Graph 9 (Health and Fitness),Graph 19 (Food),-1
+Graph 9 (Health and Fitness),Graph 20 (Food),-1
+Graph 9 (Health and Fitness),Graph 21 (Food),0
+Graph 9 (Health and Fitness),Graph 22 (Food),-2
+Graph 9 (Health and Fitness),Graph 23 (Food),-1
+Graph 9 (Health and Fitness),Graph 24 (Food),0
+Graph 9 (Health and Fitness),Graph 25 (Science and Education),0
+Graph 9 (Health and Fitness),Graph 26 (Science and Education),-1
+Graph 9 (Health and Fitness),Graph 27 (Science and Education),-1
+Graph 9 (Health and Fitness),Graph 28 (Science and Education),-1
+Graph 9 (Health and Fitness),Graph 29 (Science and Education),-1
+Graph 9 (Health and Fitness),Graph 30 (Science and Education),0
+Graph 9 (Health and Fitness),Graph 31 (Science and Education),0
+Graph 9 (Health and Fitness),Graph 32 (Science and Education),0
+Graph 9 (Health and Fitness),Graph 33 (Science and Education),-1
+Graph 9 (Health and Fitness),Graph 34 (Science and Education),0
+Graph 9 (Health and Fitness),Graph 35 (Science and Education),0
+Graph 9 (Health and Fitness),Graph 36 (Science and Education),-1
+Graph 10 (Health and Fitness),Graph 11 (Health and Fitness),-33
+Graph 10 (Health and Fitness),Graph 12 (Health and Fitness),-1
+Graph 10 (Health and Fitness),Graph 13 (Food),-1
+Graph 10 (Health and Fitness),Graph 14 (Food),0
+Graph 10 (Health and Fitness),Graph 15 (Food),0
+Graph 10 (Health and Fitness),Graph 16 (Food),0
+Graph 10 (Health and Fitness),Graph 17 (Food),0
+Graph 10 (Health and Fitness),Graph 18 (Food),0
+Graph 10 (Health and Fitness),Graph 19 (Food),0
+Graph 10 (Health and Fitness),Graph 20 (Food),0
+Graph 10 (Health and Fitness),Graph 21 (Food),0
+Graph 10 (Health and Fitness),Graph 22 (Food),-1
+Graph 10 (Health and Fitness),Graph 23 (Food),-1
+Graph 10 (Health and Fitness),Graph 24 (Food),0
+Graph 10 (Health and Fitness),Graph 25 (Science and Education),0
+Graph 10 (Health and Fitness),Graph 26 (Science and Education),0
+Graph 10 (Health and Fitness),Graph 27 (Science and Education),0
+Graph 10 (Health and Fitness),Graph 28 (Science and Education),0
+Graph 10 (Health and Fitness),Graph 29 (Science and Education),0
+Graph 10 (Health and Fitness),Graph 30 (Science and Education),0
+Graph 10 (Health and Fitness),Graph 31 (Science and Education),0
+Graph 10 (Health and Fitness),Graph 32 (Science and Education),0
+Graph 10 (Health and Fitness),Graph 33 (Science and Education),-1
+Graph 10 (Health and Fitness),Graph 34 (Science and Education),0
+Graph 10 (Health and Fitness),Graph 35 (Science and Education),0
+Graph 10 (Health and Fitness),Graph 36 (Science and Education),0
+Graph 11 (Health and Fitness),Graph 12 (Health and Fitness),-2
+Graph 11 (Health and Fitness),Graph 13 (Food),-1
+Graph 11 (Health and Fitness),Graph 14 (Food),-1
+Graph 11 (Health and Fitness),Graph 15 (Food),-1
+Graph 11 (Health and Fitness),Graph 16 (Food),-1
+Graph 11 (Health and Fitness),Graph 17 (Food),0
+Graph 11 (Health and Fitness),Graph 18 (Food),-1
+Graph 11 (Health and Fitness),Graph 19 (Food),-4
+Graph 11 (Health and Fitness),Graph 20 (Food),-2
+Graph 11 (Health and Fitness),Graph 21 (Food),-1
+Graph 11 (Health and Fitness),Graph 22 (Food),-3
+Graph 11 (Health and Fitness),Graph 23 (Food),-1
+Graph 11 (Health and Fitness),Graph 24 (Food),-1
+Graph 11 (Health and Fitness),Graph 25 (Science and Education),0
+Graph 11 (Health and Fitness),Graph 26 (Science and Education),0
+Graph 11 (Health and Fitness),Graph 27 (Science and Education),0
+Graph 11 (Health and Fitness),Graph 28 (Science and Education),0
+Graph 11 (Health and Fitness),Graph 29 (Science and Education),0
+Graph 11 (Health and Fitness),Graph 30 (Science and Education),0
+Graph 11 (Health and Fitness),Graph 31 (Science and Education),-2
+Graph 11 (Health and Fitness),Graph 32 (Science and Education),0
+Graph 11 (Health and Fitness),Graph 33 (Science and Education),0
+Graph 11 (Health and Fitness),Graph 34 (Science and Education),0
+Graph 11 (Health and Fitness),Graph 35 (Science and Education),0
+Graph 11 (Health and Fitness),Graph 36 (Science and Education),-1
+Graph 12 (Health and Fitness),Graph 13 (Food),0
+Graph 12 (Health and Fitness),Graph 14 (Food),-4
+Graph 12 (Health and Fitness),Graph 15 (Food),0
+Graph 12 (Health and Fitness),Graph 16 (Food),0
+Graph 12 (Health and Fitness),Graph 17 (Food),-1
+Graph 12 (Health and Fitness),Graph 18 (Food),-1
+Graph 12 (Health and Fitness),Graph 19 (Food),0
+Graph 12 (Health and Fitness),Graph 20 (Food),-1
+Graph 12 (Health and Fitness),Graph 21 (Food),0
+Graph 12 (Health and Fitness),Graph 22 (Food),-1
+Graph 12 (Health and Fitness),Graph 23 (Food),-3
+Graph 12 (Health and Fitness),Graph 24 (Food),-1
+Graph 12 (Health and Fitness),Graph 25 (Science and Education),0
+Graph 12 (Health and Fitness),Graph 26 (Science and Education),0
+Graph 12 (Health and Fitness),Graph 27 (Science and Education),0
+Graph 12 (Health and Fitness),Graph 28 (Science and Education),0
+Graph 12 (Health and Fitness),Graph 29 (Science and Education),0
+Graph 12 (Health and Fitness),Graph 30 (Science and Education),0
+Graph 12 (Health and Fitness),Graph 31 (Science and Education),0
+Graph 12 (Health and Fitness),Graph 32 (Science and Education),0
+Graph 12 (Health and Fitness),Graph 33 (Science and Education),-1
+Graph 12 (Health and Fitness),Graph 34 (Science and Education),0
+Graph 12 (Health and Fitness),Graph 35 (Science and Education),0
+Graph 12 (Health and Fitness),Graph 36 (Science and Education),0
+Graph 13 (Food),Graph 14 (Food),-2
+Graph 13 (Food),Graph 15 (Food),-2
+Graph 13 (Food),Graph 16 (Food),-7
+Graph 13 (Food),Graph 17 (Food),-1
+Graph 13 (Food),Graph 18 (Food),-2
+Graph 13 (Food),Graph 19 (Food),-3
+Graph 13 (Food),Graph 20 (Food),-5
+Graph 13 (Food),Graph 21 (Food),-3
+Graph 13 (Food),Graph 22 (Food),-2
+Graph 13 (Food),Graph 23 (Food),-4
+Graph 13 (Food),Graph 24 (Food),-2
+Graph 13 (Food),Graph 25 (Science and Education),0
+Graph 13 (Food),Graph 26 (Science and Education),0
+Graph 13 (Food),Graph 27 (Science and Education),0
+Graph 13 (Food),Graph 28 (Science and Education),-1
+Graph 13 (Food),Graph 29 (Science and Education),0
+Graph 13 (Food),Graph 30 (Science and Education),0
+Graph 13 (Food),Graph 31 (Science and Education),0
+Graph 13 (Food),Graph 32 (Science and Education),0
+Graph 13 (Food),Graph 33 (Science and Education),0
+Graph 13 (Food),Graph 34 (Science and Education),0
+Graph 13 (Food),Graph 35 (Science and Education),0
+Graph 13 (Food),Graph 36 (Science and Education),0
+Graph 14 (Food),Graph 15 (Food),-3
+Graph 14 (Food),Graph 16 (Food),-1
+Graph 14 (Food),Graph 17 (Food),-2
+Graph 14 (Food),Graph 18 (Food),-1
+Graph 14 (Food),Graph 19 (Food),-4
+Graph 14 (Food),Graph 20 (Food),-3
+Graph 14 (Food),Graph 21 (Food),-1
+Graph 14 (Food),Graph 22 (Food),-3
+Graph 14 (Food),Graph 23 (Food),-5
+Graph 14 (Food),Graph 24 (Food),-2
+Graph 14 (Food),Graph 25 (Science and Education),0
+Graph 14 (Food),Graph 26 (Science and Education),-1
+Graph 14 (Food),Graph 27 (Science and Education),0
+Graph 14 (Food),Graph 28 (Science and Education),0
+Graph 14 (Food),Graph 29 (Science and Education),0
+Graph 14 (Food),Graph 30 (Science and Education),0
+Graph 14 (Food),Graph 31 (Science and Education),-1
+Graph 14 (Food),Graph 32 (Science and Education),0
+Graph 14 (Food),Graph 33 (Science and Education),0
+Graph 14 (Food),Graph 34 (Science and Education),0
+Graph 14 (Food),Graph 35 (Science and Education),0
+Graph 14 (Food),Graph 36 (Science and Education),0
+Graph 15 (Food),Graph 16 (Food),-1
+Graph 15 (Food),Graph 17 (Food),-2
+Graph 15 (Food),Graph 18 (Food),-1
+Graph 15 (Food),Graph 19 (Food),-3
+Graph 15 (Food),Graph 20 (Food),-2
+Graph 15 (Food),Graph 21 (Food),-1
+Graph 15 (Food),Graph 22 (Food),-1
+Graph 15 (Food),Graph 23 (Food),-2
+Graph 15 (Food),Graph 24 (Food),-3
+Graph 15 (Food),Graph 25 (Science and Education),0
+Graph 15 (Food),Graph 26 (Science and Education),0
+Graph 15 (Food),Graph 27 (Science and Education),0
+Graph 15 (Food),Graph 28 (Science and Education),-2
+Graph 15 (Food),Graph 29 (Science and Education),-1
+Graph 15 (Food),Graph 30 (Science and Education),0
+Graph 15 (Food),Graph 31 (Science and Education),0
+Graph 15 (Food),Graph 32 (Science and Education),0
+Graph 15 (Food),Graph 33 (Science and Education),0
+Graph 15 (Food),Graph 34 (Science and Education),0
+Graph 15 (Food),Graph 35 (Science and Education),0
+Graph 15 (Food),Graph 36 (Science and Education),0
+Graph 16 (Food),Graph 17 (Food),-3
+Graph 16 (Food),Graph 18 (Food),-2
+Graph 16 (Food),Graph 19 (Food),-1
+Graph 16 (Food),Graph 20 (Food),-4
+Graph 16 (Food),Graph 21 (Food),-4
+Graph 16 (Food),Graph 22 (Food),-4
+Graph 16 (Food),Graph 23 (Food),-3
+Graph 16 (Food),Graph 24 (Food),-2
+Graph 16 (Food),Graph 25 (Science and Education),0
+Graph 16 (Food),Graph 26 (Science and Education),0
+Graph 16 (Food),Graph 27 (Science and Education),0
+Graph 16 (Food),Graph 28 (Science and Education),-1
+Graph 16 (Food),Graph 29 (Science and Education),0
+Graph 16 (Food),Graph 30 (Science and Education),0
+Graph 16 (Food),Graph 31 (Science and Education),-1
+Graph 16 (Food),Graph 32 (Science and Education),0
+Graph 16 (Food),Graph 33 (Science and Education),-1
+Graph 16 (Food),Graph 34 (Science and Education),0
+Graph 16 (Food),Graph 35 (Science and Education),0
+Graph 16 (Food),Graph 36 (Science and Education),-1
+Graph 17 (Food),Graph 18 (Food),-1
+Graph 17 (Food),Graph 19 (Food),-2
+Graph 17 (Food),Graph 20 (Food),-2
+Graph 17 (Food),Graph 21 (Food),-4
+Graph 17 (Food),Graph 22 (Food),-2
+Graph 17 (Food),Graph 23 (Food),-3
+Graph 17 (Food),Graph 24 (Food),-2
+Graph 17 (Food),Graph 25 (Science and Education),0
+Graph 17 (Food),Graph 26 (Science and Education),0
+Graph 17 (Food),Graph 27 (Science and Education),-1
+Graph 17 (Food),Graph 28 (Science and Education),0
+Graph 17 (Food),Graph 29 (Science and Education),0
+Graph 17 (Food),Graph 30 (Science and Education),0
+Graph 17 (Food),Graph 31 (Science and Education),0
+Graph 17 (Food),Graph 32 (Science and Education),0
+Graph 17 (Food),Graph 33 (Science and Education),0
+Graph 17 (Food),Graph 34 (Science and Education),0
+Graph 17 (Food),Graph 35 (Science and Education),0
+Graph 17 (Food),Graph 36 (Science and Education),0
+Graph 18 (Food),Graph 19 (Food),-3
+Graph 18 (Food),Graph 20 (Food),-2
+Graph 18 (Food),Graph 21 (Food),-2
+Graph 18 (Food),Graph 22 (Food),-2
+Graph 18 (Food),Graph 23 (Food),-3
+Graph 18 (Food),Graph 24 (Food),-4
+Graph 18 (Food),Graph 25 (Science and Education),0
+Graph 18 (Food),Graph 26 (Science and Education),0
+Graph 18 (Food),Graph 27 (Science and Education),0
+Graph 18 (Food),Graph 28 (Science and Education),0
+Graph 18 (Food),Graph 29 (Science and Education),0
+Graph 18 (Food),Graph 30 (Science and Education),0
+Graph 18 (Food),Graph 31 (Science and Education),0
+Graph 18 (Food),Graph 32 (Science and Education),0
+Graph 18 (Food),Graph 33 (Science and Education),0
+Graph 18 (Food),Graph 34 (Science and Education),0
+Graph 18 (Food),Graph 35 (Science and Education),0
+Graph 18 (Food),Graph 36 (Science and Education),0
+Graph 19 (Food),Graph 20 (Food),-2
+Graph 19 (Food),Graph 21 (Food),-2
+Graph 19 (Food),Graph 22 (Food),-2
+Graph 19 (Food),Graph 23 (Food),-5
+Graph 19 (Food),Graph 24 (Food),-3
+Graph 19 (Food),Graph 25 (Science and Education),0
+Graph 19 (Food),Graph 26 (Science and Education),0
+Graph 19 (Food),Graph 27 (Science and Education),0
+Graph 19 (Food),Graph 28 (Science and Education),0
+Graph 19 (Food),Graph 29 (Science and Education),0
+Graph 19 (Food),Graph 30 (Science and Education),0
+Graph 19 (Food),Graph 31 (Science and Education),-1
+Graph 19 (Food),Graph 32 (Science and Education),0
+Graph 19 (Food),Graph 33 (Science and Education),0
+Graph 19 (Food),Graph 34 (Science and Education),0
+Graph 19 (Food),Graph 35 (Science and Education),0
+Graph 19 (Food),Graph 36 (Science and Education),0
+Graph 20 (Food),Graph 21 (Food),-1
+Graph 20 (Food),Graph 22 (Food),-4
+Graph 20 (Food),Graph 23 (Food),-9
+Graph 20 (Food),Graph 24 (Food),-2
+Graph 20 (Food),Graph 25 (Science and Education),0
+Graph 20 (Food),Graph 26 (Science and Education),0
+Graph 20 (Food),Graph 27 (Science and Education),0
+Graph 20 (Food),Graph 28 (Science and Education),-1
+Graph 20 (Food),Graph 29 (Science and Education),0
+Graph 20 (Food),Graph 30 (Science and Education),0
+Graph 20 (Food),Graph 31 (Science and Education),-1
+Graph 20 (Food),Graph 32 (Science and Education),0
+Graph 20 (Food),Graph 33 (Science and Education),0
+Graph 20 (Food),Graph 34 (Science and Education),0
+Graph 20 (Food),Graph 35 (Science and Education),0
+Graph 20 (Food),Graph 36 (Science and Education),0
+Graph 21 (Food),Graph 22 (Food),-2
+Graph 21 (Food),Graph 23 (Food),-3
+Graph 21 (Food),Graph 24 (Food),-3
+Graph 21 (Food),Graph 25 (Science and Education),0
+Graph 21 (Food),Graph 26 (Science and Education),0
+Graph 21 (Food),Graph 27 (Science and Education),0
+Graph 21 (Food),Graph 28 (Science and Education),0
+Graph 21 (Food),Graph 29 (Science and Education),0
+Graph 21 (Food),Graph 30 (Science and Education),0
+Graph 21 (Food),Graph 31 (Science and Education),0
+Graph 21 (Food),Graph 32 (Science and Education),0
+Graph 21 (Food),Graph 33 (Science and Education),0
+Graph 21 (Food),Graph 34 (Science and Education),0
+Graph 21 (Food),Graph 35 (Science and Education),0
+Graph 21 (Food),Graph 36 (Science and Education),-1
+Graph 22 (Food),Graph 23 (Food),-3
+Graph 22 (Food),Graph 24 (Food),-2
+Graph 22 (Food),Graph 25 (Science and Education),0
+Graph 22 (Food),Graph 26 (Science and Education),0
+Graph 22 (Food),Graph 27 (Science and Education),0
+Graph 22 (Food),Graph 28 (Science and Education),0
+Graph 22 (Food),Graph 29 (Science and Education),0
+Graph 22 (Food),Graph 30 (Science and Education),0
+Graph 22 (Food),Graph 31 (Science and Education),-2
+Graph 22 (Food),Graph 32 (Science and Education),0
+Graph 22 (Food),Graph 33 (Science and Education),-1
+Graph 22 (Food),Graph 34 (Science and Education),0
+Graph 22 (Food),Graph 35 (Science and Education),0
+Graph 22 (Food),Graph 36 (Science and Education),0
+Graph 23 (Food),Graph 24 (Food),-4
+Graph 23 (Food),Graph 25 (Science and Education),0
+Graph 23 (Food),Graph 26 (Science and Education),0
+Graph 23 (Food),Graph 27 (Science and Education),0
+Graph 23 (Food),Graph 28 (Science and Education),-1
+Graph 23 (Food),Graph 29 (Science and Education),-1
+Graph 23 (Food),Graph 30 (Science and Education),0
+Graph 23 (Food),Graph 31 (Science and Education),0
+Graph 23 (Food),Graph 32 (Science and Education),0
+Graph 23 (Food),Graph 33 (Science and Education),-1
+Graph 23 (Food),Graph 34 (Science and Education),0
+Graph 23 (Food),Graph 35 (Science and Education),0
+Graph 23 (Food),Graph 36 (Science and Education),0
+Graph 24 (Food),Graph 25 (Science and Education),0
+Graph 24 (Food),Graph 26 (Science and Education),0
+Graph 24 (Food),Graph 27 (Science and Education),0
+Graph 24 (Food),Graph 28 (Science and Education),-1
+Graph 24 (Food),Graph 29 (Science and Education),0
+Graph 24 (Food),Graph 30 (Science and Education),0
+Graph 24 (Food),Graph 31 (Science and Education),0
+Graph 24 (Food),Graph 32 (Science and Education),0
+Graph 24 (Food),Graph 33 (Science and Education),0
+Graph 24 (Food),Graph 34 (Science and Education),0
+Graph 24 (Food),Graph 35 (Science and Education),0
+Graph 24 (Food),Graph 36 (Science and Education),0
+Graph 25 (Science and Education),Graph 26 (Science and Education),-2
+Graph 25 (Science and Education),Graph 27 (Science and Education),0
+Graph 25 (Science and Education),Graph 28 (Science and Education),-6
+Graph 25 (Science and Education),Graph 29 (Science and Education),-1
+Graph 25 (Science and Education),Graph 30 (Science and Education),-1
+Graph 25 (Science and Education),Graph 31 (Science and Education),-4
+Graph 25 (Science and Education),Graph 32 (Science and Education),-1
+Graph 25 (Science and Education),Graph 33 (Science and Education),-1
+Graph 25 (Science and Education),Graph 34 (Science and Education),-1
+Graph 25 (Science and Education),Graph 35 (Science and Education),0
+Graph 25 (Science and Education),Graph 36 (Science and Education),0
+Graph 26 (Science and Education),Graph 27 (Science and Education),0
+Graph 26 (Science and Education),Graph 28 (Science and Education),0
+Graph 26 (Science and Education),Graph 29 (Science and Education),0
+Graph 26 (Science and Education),Graph 30 (Science and Education),-6
+Graph 26 (Science and Education),Graph 31 (Science and Education),0
+Graph 26 (Science and Education),Graph 32 (Science and Education),-2
+Graph 26 (Science and Education),Graph 33 (Science and Education),0
+Graph 26 (Science and Education),Graph 34 (Science and Education),-6
+Graph 26 (Science and Education),Graph 35 (Science and Education),-4
+Graph 26 (Science and Education),Graph 36 (Science and Education),-3
+Graph 27 (Science and Education),Graph 28 (Science and Education),-1
+Graph 27 (Science and Education),Graph 29 (Science and Education),0
+Graph 27 (Science and Education),Graph 30 (Science and Education),0
+Graph 27 (Science and Education),Graph 31 (Science and Education),0
+Graph 27 (Science and Education),Graph 32 (Science and Education),0
+Graph 27 (Science and Education),Graph 33 (Science and Education),0
+Graph 27 (Science and Education),Graph 34 (Science and Education),0
+Graph 27 (Science and Education),Graph 35 (Science and Education),0
+Graph 27 (Science and Education),Graph 36 (Science and Education),0
+Graph 28 (Science and Education),Graph 29 (Science and Education),-2
+Graph 28 (Science and Education),Graph 30 (Science and Education),-2
+Graph 28 (Science and Education),Graph 31 (Science and Education),-5
+Graph 28 (Science and Education),Graph 32 (Science and Education),-1
+Graph 28 (Science and Education),Graph 33 (Science and Education),-3
+Graph 28 (Science and Education),Graph 34 (Science and Education),-1
+Graph 28 (Science and Education),Graph 35 (Science and Education),-1
+Graph 28 (Science and Education),Graph 36 (Science and Education),-3
+Graph 29 (Science and Education),Graph 30 (Science and Education),0
+Graph 29 (Science and Education),Graph 31 (Science and Education),-3
+Graph 29 (Science and Education),Graph 32 (Science and Education),-1
+Graph 29 (Science and Education),Graph 33 (Science and Education),-5
+Graph 29 (Science and Education),Graph 34 (Science and Education),-1
+Graph 29 (Science and Education),Graph 35 (Science and Education),0
+Graph 29 (Science and Education),Graph 36 (Science and Education),-6
+Graph 30 (Science and Education),Graph 31 (Science and Education),0
+Graph 30 (Science and Education),Graph 32 (Science and Education),0
+Graph 30 (Science and Education),Graph 33 (Science and Education),-1
+Graph 30 (Science and Education),Graph 34 (Science and Education),-1
+Graph 30 (Science and Education),Graph 35 (Science and Education),-1
+Graph 30 (Science and Education),Graph 36 (Science and Education),0
+Graph 31 (Science and Education),Graph 32 (Science and Education),-1
+Graph 31 (Science and Education),Graph 33 (Science and Education),-2
+Graph 31 (Science and Education),Graph 34 (Science and Education),-2
+Graph 31 (Science and Education),Graph 35 (Science and Education),0
+Graph 31 (Science and Education),Graph 36 (Science and Education),-3
+Graph 32 (Science and Education),Graph 33 (Science and Education),-1
+Graph 32 (Science and Education),Graph 34 (Science and Education),-2
+Graph 32 (Science and Education),Graph 35 (Science and Education),-2
+Graph 32 (Science and Education),Graph 36 (Science and Education),-1
+Graph 33 (Science and Education),Graph 34 (Science and Education),-1
+Graph 33 (Science and Education),Graph 35 (Science and Education),0
+Graph 33 (Science and Education),Graph 36 (Science and Education),-1
+Graph 34 (Science and Education),Graph 35 (Science and Education),-1
+Graph 34 (Science and Education),Graph 36 (Science and Education),-2
+Graph 35 (Science and Education),Graph 36 (Science and Education),-1
